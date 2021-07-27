@@ -19,7 +19,7 @@ import pathlib
 temp = pathlib.PosixPath
 pathlib.PosixPath = pathlib.WindowsPath
 summarizer = load_learner(
-    fname='pegasus_model.pkl')
+    fname='./pegasus_model.pkl')
 
 
 def main():
