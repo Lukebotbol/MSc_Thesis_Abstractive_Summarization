@@ -7,7 +7,7 @@ zipp==1.0.0
 numpy==1.21.1
 brotli==1.0.9
 Cython==0.29.24
-dataclasses==0.8
+dataclasses==0.6
 datasets==1.10.2
 docutils==0.17.1
 fastai==2.4.1
