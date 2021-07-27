@@ -26,5 +26,5 @@ seqeval==1.2.2
 streamlit==0.85.0
 torch==1.9.0
 transformers==4.9.1
-wincertstore==0.2.1
+wincertstore==0.2
 ohmeow-blurr == 0.0.32
