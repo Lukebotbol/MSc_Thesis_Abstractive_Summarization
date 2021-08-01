@@ -1,0 +1,4 @@
+gcloud builds submit --tag gcr.io/text-summarizer-321212/streamlit-summarizer --project=text-summarizer-321212
+
+
+gcloud run deploy --image gcr.io/text-summarizer-321212/streamlit-summarizer --platform managed --project=text-summarizer-321212 --allow-unauthenticated
